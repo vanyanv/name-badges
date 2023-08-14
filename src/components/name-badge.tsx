@@ -2,7 +2,7 @@ type NameBadgeProps = {
   name: string;
   greetings?: string;
 };
-
+////coments
 const NameBadge = ({ name, greetings }: NameBadgeProps) => {
   return (
     <section className="badge">
