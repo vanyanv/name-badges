@@ -6,6 +6,7 @@ type NameBadgeProps = {
 ////coments
 ////coments
 ////coments
+// git config --global user.name 
 const NameBadge = ({ name, greetings }: NameBadgeProps) => {
   return (
     <section className="badge">
